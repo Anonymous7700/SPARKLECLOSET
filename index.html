@@ -42,7 +42,9 @@
 <label for="food 4">Sharwama</label><br><br>
 <h3> stop trying to find happiness in the same place you lost it.</h3>
 <img src="IMG-20220415-WA0004.jpg" width="60" height="30"><br>
+<form action="https://www.tiktok.com/@itzolamide001">
 <input type="submit" value="submit">
+</form>
 </body>
 </fieldset>
 </html>
